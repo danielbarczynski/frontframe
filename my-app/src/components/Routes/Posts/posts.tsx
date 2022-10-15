@@ -1,0 +1,1 @@
+let article: { title: string, text: string } = {} as { title: string, text: string };
