@@ -1,1 +1,7 @@
-let article: { title: string, text: string } = {} as { title: string, text: string };
+export const Posts = () => {
+  return (
+    <div></div>
+  )
+}
+
+export default Posts
