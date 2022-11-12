@@ -10,11 +10,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
-<<<<<<< HEAD
     <Menu></Menu>
-=======
-    
->>>>>>> da8853acc382ac4e54e5f448d693738955cff431
   </React.StrictMode>
 );
 
